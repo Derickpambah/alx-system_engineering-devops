@@ -1,2 +1,2 @@
 #!/bin/bash
-/0x00-shell_basics$ source ./2-bring_me_home 
+cd 
